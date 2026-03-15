@@ -51,7 +51,7 @@
     "Files": "檔案",
     "File Manager": "檔案管理員",
     "Databases": "資料庫",
-    "Schedules": "排成",
+    "Schedules": "排程",
     "Users": "用戶",
     "Backups": "備份",
     "Network": "網路",
@@ -115,7 +115,7 @@
     "New User": "新用戶",
 
     "There are no schedules configured for this server.": "此伺服器尚未配置任何排程。",
-    "Create schedule": "新建排成",
+    "Create schedule": "新建排程",
 
     "Create Directory": "建立目錄",
     "New File": "新增資料",
